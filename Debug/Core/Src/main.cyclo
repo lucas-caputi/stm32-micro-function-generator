@@ -1,0 +1,5 @@
+main.c:38:5:main	5
+main.c:89:6:change_waveform	19
+main.c:170:6:_change_waveform_duty	10
+main.c:210:6:SystemClock_Config	4
+main.c:260:6:Error_Handler	1

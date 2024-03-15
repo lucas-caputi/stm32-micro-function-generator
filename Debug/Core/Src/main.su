@@ -1,0 +1,5 @@
+../Core/Src/main.c:38:5:main	16	static
+../Core/Src/main.c:89:6:change_waveform	16	static
+../Core/Src/main.c:170:6:_change_waveform_duty	16	static
+../Core/Src/main.c:210:6:SystemClock_Config	96	static
+../Core/Src/main.c:260:6:Error_Handler	4	static,ignoring_inline_asm

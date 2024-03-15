@@ -1,0 +1,2 @@
+../Core/Src/keypad.c:58:6:config_keypad	4	static
+../Core/Src/keypad.c:116:9:determine_keypress	24	static

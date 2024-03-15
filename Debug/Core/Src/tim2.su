@@ -1,0 +1,2 @@
+../Core/Src/tim2.c:23:6:TIM2_config	4	static,ignoring_inline_asm
+../Core/Src/tim2.c:44:6:TIM2_IRQHandler	8	static
